@@ -1,5 +1,5 @@
-require 'spree_core'
-require 'spree_shipstation/engine'
+require 'solidus_core'
+require 'solidus_shipstation/engine'
 require 'spree/shipment_notice'
 
 module Spree
