@@ -3,7 +3,7 @@ module Spree
     extend ActiveSupport::Concern
 
     included do
-      ssl_required
+      force_ssl
       before_filter :authenticate
     end
 
