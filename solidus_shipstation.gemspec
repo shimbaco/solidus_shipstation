@@ -1,10 +1,10 @@
 # encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'spree_shipstation'
+  s.name        = 'solidus_shipstation'
   s.version     = '2.0.1'
-  s.summary     = 'Spree/ShipStation Integration'
-  s.description = 'Integrates ShipStation API with Spree. Supports exporting shipments and importing tracking numbers'
+  s.summary     = 'Solidus/ShipStation Integration'
+  s.description = 'Integrates ShipStation API with Solidus. Supports exporting shipments and importing tracking numbers'
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'Joshua Nussbaum'
