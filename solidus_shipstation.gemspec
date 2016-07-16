@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.description = 'Integrates ShipStation API with Solidus. Supports exporting shipments and importing tracking numbers'
   s.required_ruby_version = '>= 1.9.3'
 
-  s.author    = 'Joshua Nussbaum'
-  s.email     = 'josh@godynamo.com'
-  s.homepage  = 'http://www.godynamo.com'
+  s.author    = 'Koji Shimba'
+  s.email     = 'me@shimba.co'
+  s.homepage  = 'http://www.shimba.co/'
 
   #s.files       = `git ls-files`.split("\n")
   #s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
