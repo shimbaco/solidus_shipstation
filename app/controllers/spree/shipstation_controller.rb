@@ -1,4 +1,4 @@
-include SpreeShipstation
+include SolidusShipstation
 
 module Spree
   class ShipstationController < Spree::StoreController
